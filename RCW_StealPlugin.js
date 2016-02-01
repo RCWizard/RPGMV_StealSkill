@@ -126,7 +126,7 @@
  * 
  * Mug   - Attacks an enemy and attempts to steal a single item
  *  Scope: 1 Enemy, Success: 100%, Hit Type : Physical Attack,
- *  Damage Type : None, Steal Effect ( in notes ) : STEALONE
+ *  Damage Type : HP Damage, Steal Effect ( in notes ) : STEALONE
  *
  * Raid -  attempts to steal each item entry from all enemies
  *  Scope: All Enemies, Success: 100%, Hit Type : Certain,
